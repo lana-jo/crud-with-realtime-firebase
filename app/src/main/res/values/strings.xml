@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">crud</string>
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="merk_barang">Merk Barang</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="pilihfoto">Pilih Foto</string>
+    <!--    <item name="cvmMain" type="id">CardView</item>-->
+</resources>
