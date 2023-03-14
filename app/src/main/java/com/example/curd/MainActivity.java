@@ -62,12 +62,7 @@ public class MainActivity extends AppCompatActivity implements MainAdapter.Fireb
 
     // request code
     final int PICK_IMAGE_REQUEST = 22;
-
-    /*private static void onClick(View view1) {
-        WebChromeClient.FileChooserParams;
-    }*/
-
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
